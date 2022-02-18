@@ -40,7 +40,7 @@ function Header() {
                       Your
                 </span>
                 <span className='header__optionLineTwo'>
-                      Prime
+                      Prime hero section 
                 </span>
 
               </div>
